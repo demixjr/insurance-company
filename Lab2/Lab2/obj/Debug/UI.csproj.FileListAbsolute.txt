@@ -1,0 +1,14 @@
+D:\нау\2 курс\кдпз\Lab2\Lab2\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\нау\2 курс\кдпз\Lab2\Lab2\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\нау\2 курс\кдпз\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\нау\2 курс\кдпз\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\нау\2 курс\кдпз\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\нау\2 курс\кдпз\Lab2\Lab2\bin\Debug\BLL.dll
+D:\нау\2 курс\кдпз\Lab2\Lab2\bin\Debug\DAL.dll
+D:\нау\2 курс\кдпз\Lab2\Lab2\bin\Debug\Newtonsoft.Json.dll
+D:\нау\2 курс\кдпз\Lab2\Lab2\bin\Debug\BLL.pdb
+D:\нау\2 курс\кдпз\Lab2\Lab2\bin\Debug\DAL.pdb
+D:\нау\2 курс\кдпз\Lab2\Lab2\bin\Debug\Newtonsoft.Json.xml
+D:\нау\2 курс\кдпз\Lab2\Lab2\obj\Debug\UI.csproj.Up2Date
+D:\нау\2 курс\кдпз\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\нау\2 курс\кдпз\Lab2\Lab2\obj\Debug\Lab2.pdb

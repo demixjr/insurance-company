@@ -1,0 +1,11 @@
+D:\нау\2 курс\кдпз\Lab2\DAL\bin\Debug\DAL.dll
+D:\нау\2 курс\кдпз\Lab2\DAL\bin\Debug\DAL.pdb
+D:\нау\2 курс\кдпз\Lab2\DAL\bin\Debug\BLL.dll
+D:\нау\2 курс\кдпз\Lab2\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\нау\2 курс\кдпз\Lab2\DAL\bin\Debug\BLL.pdb
+D:\нау\2 курс\кдпз\Lab2\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\нау\2 курс\кдпз\Lab2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\нау\2 курс\кдпз\Lab2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\нау\2 курс\кдпз\Lab2\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\нау\2 курс\кдпз\Lab2\DAL\obj\Debug\DAL.dll
+D:\нау\2 курс\кдпз\Lab2\DAL\obj\Debug\DAL.pdb

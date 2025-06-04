@@ -1,0 +1,40 @@
+[
+  {
+    "$type": "BLL.CarInsurancePolicy, BLL",
+    "id": 1,
+    "clientID": 1,
+    "client": {
+      "id": 1,
+      "surname": "Романов",
+      "name": "Борис",
+      "phone": "+389726548833",
+      "bankNumber": "6574825647231897564328756"
+    },
+    "insuranceObject": "Toyota Camry 2018",
+    "startDate": "2025-04-23T19:21:40.9437008+03:00",
+    "endDate": "2029-07-23T00:00:00",
+    "insuranceAmount": 75000.0,
+    "insurancePremium": 50000.0,
+    "status": true,
+    "TypeOfInsurance": "Автомобіль"
+  },
+  {
+    "$type": "BLL.HealthInsurancePolicy, BLL",
+    "id": 2,
+    "clientID": 3,
+    "client": {
+      "id": 3,
+      "surname": "Чотк?на",
+      "name": "Ангел?на",
+      "phone": "+389529564950",
+      "bankNumber": "1207200623102006120920218"
+    },
+    "insuranceObject": "Т?лесне здоров'я ",
+    "startDate": "2025-05-18T20:06:58.283241+03:00",
+    "endDate": "2026-08-10T00:00:00",
+    "insuranceAmount": 21600.0,
+    "insurancePremium": 12000.0,
+    "status": false,
+    "TypeOfInsurance": "Здоров’я"
+  }
+]
